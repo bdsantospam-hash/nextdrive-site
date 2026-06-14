@@ -23,7 +23,7 @@ export default async function TestemunhosPage() {
       <section className="page-hero">
         <div className="container">
           <div className="eyebrow">Histórias reais</div>
-          <h1>O que as famílias dizem<br />sobre a <strong>NextDrive</strong></h1>
+          <h1>O que as famílias dizem<br />sobre a <strong>DriveNext</strong></h1>
           <p>Mais de 2.400 famílias já encontraram o seu próximo carro connosco. Estas são algumas das suas histórias.</p>
         </div>
       </section>
@@ -83,7 +83,7 @@ export default async function TestemunhosPage() {
         <div className="container">
           <div className="eyebrow" style={{ justifyContent: 'center' }}>Junte-se a eles</div>
           <h2>Quer ser a próxima<br />história de <strong>sucesso</strong>?</h2>
-          <p>Marque uma visita e descubra porque tantas famílias confiam na NextDrive.</p>
+          <p>Marque uma visita e descubra porque tantas famílias confiam na DriveNext.</p>
           <div className="hero-cta" style={{ justifyContent: 'center' }}>
             <Link href="/contacto" className="btn btn-primary">Marcar visita</Link>
             <Link href="/#viaturas" className="btn btn-ghost">Ver viaturas</Link>

@@ -1,4 +1,4 @@
-# NextDrive — Site + Backoffice (Next.js + Supabase)
+# DriveNext — Site + Backoffice (Next.js + Supabase)
 
 Site público e backoffice ligados à mesma base de dados: qualquer alteração feita no
 backoffice (`/admin`) aparece imediatamente no site público, sem passos de exportação.
@@ -51,12 +51,12 @@ backoffice (`/admin`) aparece imediatamente no site público, sem passos de expo
 
 ---
 
-## 4. Ligar o domínio nextdrive.pt
+## 4. Ligar o domínio drivenext.pt
 
-1. Na Vercel: **Project → Settings → Domains** → adicione `nextdrive.pt` (e `www.nextdrive.pt`).
+1. Na Vercel: **Project → Settings → Domains** → adicione `drivenext.pt` (e `www.drivenext.pt`).
 2. A Vercel mostra os registos DNS a configurar (normalmente um registo `A` para o domínio
    raiz e um `CNAME` para `www`).
-3. No painel do seu fornecedor de domínio (onde comprou nextdrive.pt), adicione esses
+3. No painel do seu fornecedor de domínio (onde comprou drivenext.pt), adicione esses
    registos DNS.
 4. Aguarde a propagação (pode demorar entre minutos e algumas horas). A Vercel emite
    automaticamente o certificado HTTPS.

@@ -1,5 +1,5 @@
 -- ============================================================
--- NextDrive — Esquema da base de dados (Supabase / Postgres)
+-- DriveNext — Esquema da base de dados (Supabase / Postgres)
 -- Execute este script completo no SQL Editor do Supabase
 -- ============================================================
 
@@ -67,7 +67,7 @@ values (
   'Av. da Liberdade 245, 1250-143 Lisboa',
   'A 5 minutos a pé da estação do Marquês de Pombal',
   '+351 21 000 0000',
-  'ola@nextdrive.pt',
+  'ola@drivenext.pt',
   'Segunda a sábado · 9h00 – 19h00',
   'Domingo, sob marcação',
   'https://www.google.com/maps?q=Avenida+da+Liberdade+245,+Lisboa&output=embed'

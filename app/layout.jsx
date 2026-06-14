@@ -1,7 +1,7 @@
 import './globals.css';
 
 export const metadata = {
-  title: 'NextDrive — A sua próxima viagem começa em família',
+  title: 'DriveNext — A sua próxima viagem começa em família',
   description: 'Compra e venda de viaturas usadas e seminovas em Lisboa, com inspeção certificada, garantia e acompanhamento pessoal.',
 };
 

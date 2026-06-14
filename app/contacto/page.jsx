@@ -17,7 +17,7 @@ export default async function ContactoPage() {
       <section className="page-hero">
         <div className="container">
           <div className="eyebrow">Estamos aqui</div>
-          <h1>Fale com a <strong>NextDrive</strong></h1>
+          <h1>Fale com a <strong>DriveNext</strong></h1>
           <p>Visite o nosso espaço em Lisboa, ligue-nos ou deixe os seus dados — respondemos pessoalmente, sem respostas automáticas.</p>
         </div>
       </section>
@@ -104,7 +104,7 @@ export default async function ContactoPage() {
               allowFullScreen=""
               loading="lazy"
               referrerPolicy="no-referrer-when-downgrade"
-              title="Localização da NextDrive em Lisboa"
+              title="Localização da DriveNext em Lisboa"
             />
           </div>
         </div>

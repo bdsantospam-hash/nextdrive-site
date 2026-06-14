@@ -33,7 +33,7 @@ export default function LoginPage() {
         <div style={styles.logoRow}>
           <Logo size={40} />
           <div>
-            <div style={styles.title}>NextDrive<span style={{ color: '#3D5A6C' }}>.</span></div>
+            <div style={styles.title}>DriveNext<span style={{ color: '#3D5A6C' }}>.</span></div>
             <div style={styles.subtitle}>Backoffice</div>
           </div>
         </div>
@@ -47,7 +47,7 @@ export default function LoginPage() {
               onChange={(e) => setEmail(e.target.value)}
               required
               style={styles.input}
-              placeholder="ola@nextdrive.pt"
+              placeholder="ola@drivenext.pt"
             />
           </div>
           <div style={styles.field}>

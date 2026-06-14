@@ -7,7 +7,7 @@ export default function Header() {
       <div className="container nav">
         <Link href="/" className="logo-wrap">
           <Logo />
-          <span className="logo">NextDrive<span className="dot">.</span></span>
+          <span className="logo">DriveNext<span className="dot">.</span></span>
         </Link>
         <nav className="nav-links">
           <Link href="/#viaturas">Viaturas</Link>

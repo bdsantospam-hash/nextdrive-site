@@ -33,10 +33,10 @@ export default async function HomePage() {
             <div>
               <div className="eyebrow">Concessionário familiar</div>
               <h1>Cada carro tem uma história.<br />A sua começa com <strong>confiança</strong>.</h1>
-              <p className="lead">Na NextDrive escolhemos cada viatura como se fosse para um familiar nosso. Inspeção rigorosa, garantia real e o acompanhamento de uma equipa que conhece pelo nome.</p>
+              <p className="lead">Na DriveNext escolhemos cada viatura como se fosse para um familiar nosso. Inspeção rigorosa, garantia real e o acompanhamento de uma equipa que conhece pelo nome.</p>
               <div className="hero-cta">
                 <Link href="#viaturas" className="btn btn-primary">Ver viaturas disponíveis</Link>
-                <Link href="#familia" className="btn btn-ghost">Conhecer a NextDrive</Link>
+                <Link href="#familia" className="btn btn-ghost">Conhecer a DriveNext</Link>
               </div>
             </div>
             <div className="hero-visual">
@@ -143,12 +143,12 @@ export default async function HomePage() {
         <div className="container">
           <div className="family">
             <div className="family-photo">
-              <img src="https://images.unsplash.com/photo-1560179707-f14e90ef3623?q=80&w=900&auto=format&fit=crop" alt="Equipa NextDrive" />
+              <img src="https://images.unsplash.com/photo-1560179707-f14e90ef3623?q=80&w=900&auto=format&fit=crop" alt="Equipa DriveNext" />
             </div>
             <div>
               <div className="eyebrow">Quem somos</div>
               <h2>Um negócio de família,<br />ao serviço da <strong>sua</strong>.</h2>
-              <p>A NextDrive nasceu de uma garagem pequena e da convicção de que comprar um carro devia ser tão simples como pedir um conselho a alguém de confiança.</p>
+              <p>A DriveNext nasceu de uma garagem pequena e da convicção de que comprar um carro devia ser tão simples como pedir um conselho a alguém de confiança.</p>
               <p>Hoje continuamos a tratar cada cliente como gostaríamos que tratassem os nossos pais, filhos ou irmãos — com transparência, paciência e zero pressão.</p>
               <div className="stat-row">
                 <div><h3>15+</h3><span>ANOS DE EXPERIÊNCIA</span></div>
@@ -198,7 +198,7 @@ export default async function HomePage() {
         <div className="container">
           <div className="testimonial">
             <blockquote>&quot;Comprámos o carro para a nossa filha e foi tratado como se fosse para a deles também. Explicaram tudo, sem pressas e sem letras pequenas.&quot;</blockquote>
-            <cite>FAMÍLIA OLIVEIRA · CLIENTES NEXTDRIVE</cite>
+            <cite>FAMÍLIA OLIVEIRA · CLIENTES DRIVENEXT</cite>
             <div style={{ marginTop: 28 }}>
               <Link href="/testemunhos" className="link-arrow" style={{ justifyContent: 'center', display: 'inline-flex' }}>Ver todos os testemunhos</Link>
             </div>
@@ -213,7 +213,7 @@ export default async function HomePage() {
           <p>Visite-nos em Lisboa ou marque uma chamada — sem compromisso, sem pressão de vendas.</p>
           <div className="hero-cta" style={{ justifyContent: 'center' }}>
             <Link href="/contacto" className="btn btn-primary">Marcar visita</Link>
-            <Link href="/contacto" className="btn btn-ghost">WhatsApp NextDrive</Link>
+            <Link href="/contacto" className="btn btn-ghost">WhatsApp DriveNext</Link>
           </div>
         </div>
       </section>

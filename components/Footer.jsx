@@ -10,7 +10,7 @@ export default function Footer({ info }) {
           <div>
             <span className="footer-logo logo-wrap">
               <Logo size={32} />
-              NextDrive<span className="dot">.</span>
+              DriveNext<span className="dot">.</span>
             </span>
             <p>Compra e venda de viaturas usadas e seminovas, com inspeção certificada e acompanhamento pessoal — uma família a cuidar da sua mobilidade.</p>
           </div>
@@ -37,13 +37,13 @@ export default function Footer({ info }) {
             <ul>
               <li>{i.endereco || 'Av. da Liberdade, Lisboa'}</li>
               <li>{i.telefone || '+351 21 000 0000'}</li>
-              <li>{i.email || 'ola@nextdrive.pt'}</li>
+              <li>{i.email || 'ola@drivenext.pt'}</li>
               <li>{i.horario || 'Seg–Sáb · 9h–19h'}</li>
             </ul>
           </div>
         </div>
         <div className="footer-bottom">
-          <span>© {new Date().getFullYear()} NextDrive.pt — Todos os direitos reservados</span>
+          <span>© {new Date().getFullYear()} DriveNext.pt — Todos os direitos reservados</span>
           <span>Política de Privacidade · Termos de Utilização</span>
         </div>
       </div>

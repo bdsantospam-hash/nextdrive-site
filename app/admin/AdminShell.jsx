@@ -39,7 +39,7 @@ export default function AdminShell({ children }) {
         <div style={styles.logoRow}>
           <Logo size={34} />
           <div>
-            <div style={styles.logoText}>NextDrive<span style={{ color: '#3D5A6C' }}>.</span></div>
+            <div style={styles.logoText}>DriveNext<span style={{ color: '#3D5A6C' }}>.</span></div>
             <div style={styles.logoSub}>Backoffice</div>
           </div>
         </div>
